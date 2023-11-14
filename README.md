@@ -62,6 +62,5 @@ hsh main.c shell.c test_ls_2
 
 ### Author
 
-Raymond Enokela
+Raymond Enokela and Akanni Ismail
 ```
-
