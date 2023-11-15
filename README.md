@@ -1,6 +1,3 @@
-Sure, here is a sample README.md file for your project:
-
-```
 ## hsh
 
 A simple shell written in C by Raymond Enokela.
