@@ -1,6 +1,6 @@
 ## hsh
 
-A simple shell written in C by Raymond Enokela.
+A simple shell written in C by Raymond Enokela and Akanni Ismail.
 
 ### Requirements
 
